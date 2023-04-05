@@ -1,0 +1,39 @@
+
+body{background-color:grey;
+  
+    
+}
+.div1{background-color:whitesmoke;
+    height:10cm;
+    width:15cm;
+    border-radius:16px;
+    box-shadow: 5px 3px 5px 6px darkgray;
+}
+
+#td1{
+    width:12cm;
+}
+
+#tr1{
+    height:0.8cm;
+}
+#td2{
+    width:4cm;
+}
+#r1{
+    color:grey;
+}
+#r2{
+    color:red;
+}
+#t2{
+    width:6cm;
+}
+h1{
+    text-shadow: 3px 3px 3px darkgray;
+}
+#submit{
+    background-color: grey;
+    color:aliceblue;
+    border-color: aliceblue;
+}

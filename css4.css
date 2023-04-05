@@ -1,0 +1,40 @@
+
+
+header{
+	background-color:black;
+	height:5cm;
+}
+footer{
+	background-color:black;
+	color:white;
+}
+#days, #hours, #min, #sec{
+	font-size:4cm;
+}
+
+#days{
+	color:;
+}
+#name,#pass{
+	box-shadow:2px 2px 3px 2px black;
+}
+main a{
+	color:black;
+}
+#days2, #hours2, #min2, #sec2{
+	font-size:1cm;
+}
+footer a{
+	color:white;
+	text-decoration:none;
+}
+a{
+	
+	text-decoration:none;
+}
+#div1{
+	background-color: burlywood;
+}
+#div2{
+	background-color: lavenderblush;
+}
